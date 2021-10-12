@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @colestrecker
-- 👀 I’m interested in the overthrow of the venuzualen goverment 
+- 👋 Привет, I’m cole
+- 👀 I'm interested in the overthrow of the venuzualen goverment 
 - 🌱 I’m currently learning how to fake my death and flee to Kyrgyztan where I own a laundry mat that is NOT a money laundering front 
-- 💞️ I’m looking to collaborate on a pill that makes you feel like the color orange 
+- 💞️ I’m looking to collaborate on the altering of the past to prevent your father from ever meeting your mother
 - 📫 Reach me VIA a complex series of tunnels that run all the way across the midwest dug by the amish is 1963
-
-<!---
-colestrecker/colestrecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
